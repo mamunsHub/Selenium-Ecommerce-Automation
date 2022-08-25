@@ -2,12 +2,14 @@
 Python3 needs to be installed in the PC.
 
 ### To Setup the Script:
-### Create Virtual Environment
+
+### install virtual environment
 pip install virtualenv
+### Create Virtual Environment
 python -m venv .venv
 
 ### Activate Virtual Environment
 .venv\Scripts\activate.bat
 
-## To Run the tes
-python -m pytest
+## To Run the test
+python script.py
